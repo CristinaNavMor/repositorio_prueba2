@@ -1,0 +1,91 @@
+header{
+    background-color:rgb(17, 65, 65);
+    color:aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+    float: initial;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.articulo1{
+    box-sizing:border-box;
+    border: 5px solid rgb(82, 167, 120);
+    background-color:beige;
+
+}
+.articulo2{
+    box-sizing:border-box;
+    border: 5px solid rgb(142, 87, 153)
+}
+
+.articulo3{
+    box-sizing: border-box;
+    border: 5px solid rgb(134, 155, 40)
+
+}
+.articulo4{
+    box-sizing: border-box;
+    border: 5px solid rgb(226, 119, 119)
+}
+
+.main{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-sizing: border-box;
+    position: relative;
+    padding:2px;
+    border: 10px solid rgb(17, 65, 65);
+    float: left;
+    width:70%;
+}
+.h2{
+    text-align: center;
+}
+.publi{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-sizing:border-box;
+    border: 5px solid rgb(218, 208, 166);
+    float:right;
+    width: 30%;
+
+}
+.pie{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    border: 20px solid rgb(17, 65, 65);
+    background-color: rgb(17, 65, 65);
+    clear: both;
+    position: relative;
+}
+.articulo1, .articulo3{
+    float:right;
+    width: 50%;
+    box-sizing: border-box;
+}
+.articulo2, .articulo4{
+    float:left;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.table {
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
